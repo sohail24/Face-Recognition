@@ -1,3 +1,3 @@
-# Face-Recognition
+# Face-Detection-Recognition
 
 ## face detection `done`
