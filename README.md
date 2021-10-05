@@ -5,3 +5,5 @@ In computer vision, one essential problem we are trying to figure out is to auto
 
 Face detection is usually the first step towards many face-related technologies, such as face recognition or verification. However, face detection can have very useful applications. The most successful application of face detection would probably be photo taking. When you take a photo of your friends, the face detection algorithm built into your digital camera detects where the faces are and adjusts the focus accordingly.
 
+> Face recognition done
+
