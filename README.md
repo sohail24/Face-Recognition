@@ -13,3 +13,7 @@ Face detection is usually the first step towards many face-related technologies,
 A facial recognition system is a technology capable of matching a human face from a digital image or a video frame against a database of faces, typically employed to authenticate users through ID verification services, works by pinpointing and measuring facial features from a given image.
 
 > Model Used : Haarcaascade Frontal Face 
+
+### Features used to identify face using Haarcascade
+
+![face-detection-and-face-recognition2](https://user-images.githubusercontent.com/92254479/136694327-7d0436d9-a800-4650-9ad0-3f01cc1e356e.png)
