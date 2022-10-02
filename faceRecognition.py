@@ -1,3 +1,6 @@
+## importing cv2 means we are importing open cv library and it is named cv2
+## importing os means we including os library, os library can perform os commands directly using code
+## haarcascade is a model and it has lot of specific image detection here it uses frontal face detection
 import cv2
 import os
 cascPath=os.path.dirname(cv2.__file__)+"/data/haarcascade_frontalface_default.xml"
